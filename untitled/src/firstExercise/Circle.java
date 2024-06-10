@@ -18,6 +18,6 @@ public class Circle implements Figure{
 
     @Override
     public String getType() {
-        return "Circle";
+        return "kolo";
     }
 }
