@@ -8,12 +8,12 @@ public class Parallelogram implements Figure{
         this.baseSide = baseSide;
         this.height = height;
         this.side = side;
-    }
+}
 
     @Override
     public double getPerimeter() {
         return 2 * (baseSide + side);
-    }
+}
 
     @Override
     public double getArea() {
@@ -22,6 +22,6 @@ public class Parallelogram implements Figure{
 
     @Override
     public String getType() {
-        return "Paralelogramm";
+        return "paralelogram";
     }
 }
