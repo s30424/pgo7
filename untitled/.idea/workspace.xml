@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="943319fd-dbb3-4bbe-bc76-cc4303275811" name="Changes" comment="" />
+    <list default="true" id="943319fd-dbb3-4bbe-bc76-cc4303275811" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Drugie/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drugie/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Drugie/Moveable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pierwsze/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pierwsze/Figure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pierwsze/Parallelogram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pierwsze/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trzecie/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trzecie/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trzecie/Person.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2gor6np0eYWB1zdCihQjJGwvII8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,10 +34,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "Z:/pgo7/untitled/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716374600233</updated>
       <workItem from="1716374602015" duration="6000" />
+      <workItem from="1718008361160" duration="7000" />
     </task>
     <servers />
   </component>
